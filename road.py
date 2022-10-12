@@ -92,7 +92,7 @@ while running:
         xCoord = 750
     if xCoord2 == -299:
         xCoord2 = 750
-    time.sleep(0.01)
+    time.sleep(0.001)
 
 pygame.quit()
         
